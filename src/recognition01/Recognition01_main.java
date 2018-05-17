@@ -11,7 +11,7 @@ public class Recognition01_main {
 
 	public static	void main(String[] orgs) {
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("4f771d96592f197797ac81dc10e3ab1e678d0ebf");
+		service.setApiKey("j16014");
 
 		DetectFacesOptions detectFacesOptions = null;
 		try {
